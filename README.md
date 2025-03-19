@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm XYZ! I hold a Bachelor's degree in BSc IT and am currently pursuing a career as a Frontend Developer for websites. I have experience building Android apps using Java, Python, and C++, and I am always eager to learn and improve my skills. My goal is to work with a reputed company where I can further enhance my knowledge and contribute to exciting projects. Feel free to explore my repositories and connect with me!
+Hi, I'm vikas ravindra shukla! I hold a Bachelor's degree in BSc IT and am currently pursuing a career as a Frontend Developer for websites. I have experience building Android apps using Java, Python, and C++, and I am always eager to learn and improve my skills. My goal is to work with a reputed company where I can further enhance my knowledge and contribute to exciting projects. Feel free to explore my repositories and connect with me!
 
 
 ## 🌐 Socials:
